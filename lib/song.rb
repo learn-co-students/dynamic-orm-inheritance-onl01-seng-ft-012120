@@ -7,3 +7,4 @@ class Song < InteractiveRecord
   end
 
 end
+#adding to submit
